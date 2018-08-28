@@ -1,0 +1,21 @@
+#footer.dark,
+.dark #footer {
+    background-color: #01202f;
+    color: #ccc;
+    border-top-color: rgba(0, 0, 0, .2);
+}
+
+#footer {
+    position: relative;
+    background-color: #eee;
+    border-top: 5px solid rgba(0, 0, 0, .2);
+}
+
+#footer .footer-widgets-wrap {
+    position: relative;
+    padding: 60px 0;
+}
+
+div {
+    display: block;
+}

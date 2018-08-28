@@ -1,0 +1,64 @@
+.gomycodelogo {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: 0;
+    width: 10%;
+    padding-left: 10%;
+}
+
+.coders {
+    width: 80%;
+}
+
+.gomycode {
+    position: relative;
+    text-align: center;
+    color: #fe424d;
+    width: 100%;
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 150px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+p {
+    color: rgb(63, 62, 62);
+    text-align: left;
+    line-height: 24px;
+    font-size: 20px;
+}
+
+.first-part {
+    display: flex;
+    justify-content: center;
+}
+
+.parcours {
+    border: solid 2px #fe424d;
+}
+
+a {
+    color: #fe424d;
+}
+
+.title {
+    background-color: #fe424d;
+    color: antiquewhite;
+    display: inline-block;
+    height: 30px;
+}
+
+.title1 {
+    color: #fe424d;
+    text-align: right;
+}
